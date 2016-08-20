@@ -212,5 +212,4 @@ return [
 
         'Wechat' => Overtrue\LaravelWechat\Facade::class,
     ],
-
 ];
