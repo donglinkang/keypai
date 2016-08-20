@@ -17,7 +17,7 @@ return [
      * 账号基本信息，请从微信公众平台/开放平台获取
      */
     'app_id'  => env('WECHAT_APPID', 'wx402e7417ebe6679d'),         // AppID
-    'secret'  => env('WECHAT_SECRET', '59905c190185198e35bcc3b8c9bf50a7 '),     // AppSecret
+    'secret'  => env('WECHAT_SECRET', '59905c190185198e35bcc3b8c9bf50a7'),     // AppSecret
     'token'   => env('WECHAT_TOKEN', 'keypai890890890'),          // Token
     'aes_key' => env('WECHAT_AES_KEY', 'j82xdM3z8MXgyxmqvg2VGZi5XIHXJxmRbdKQ9jZGUtm'),                    // EncodingAESKey
 
